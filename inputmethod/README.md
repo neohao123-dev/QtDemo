@@ -39,8 +39,6 @@ Q5虚拟键盘框架+VC手写输入扩展库
 四、使用
 1、输入法使用
  (1) 下载源码，编译
- (2) 安装微软手写支持库_Getintopc.com_Tablet_PC_Software_Development_Kit_1.7.exe
- (3) 参照[testdemo](https://gitee.com/wangzhenglin/inputmethod/tree/master/src/testdemo)
  
 
 ```cpp
