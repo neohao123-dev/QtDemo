@@ -30,7 +30,3 @@
 ![1.png](./screenshot/V2.0/1.png)
 ![2.png](./screenshot/V2.0/2.png)
 ![3.png](./screenshot/V2.0/3.png)
-
-## 作者联系方式:
-**邮箱:justdoit_mqr@163.com**  
-**新浪微博:@为-何-而来**  
